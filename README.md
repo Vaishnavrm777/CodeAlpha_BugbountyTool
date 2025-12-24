@@ -1,2 +1,2 @@
 # CodeAlpha_BugbountyTool
-I have created a defensive, bug-bounty–oriented static analysis tool in Python for an internship with CodeAlpha
+It is aligned with how entry-level to junior bug bounty researchers and SOC analysts work during code review.
